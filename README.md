@@ -1,2 +1,2 @@
 # Budgety
-asdas
+Simple budget app developed using vanilla js.
